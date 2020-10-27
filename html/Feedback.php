@@ -51,6 +51,7 @@
                     $feedbackDetailsResult = $conn->query($feedbackDetails);
                     while($row = mysqli_fetch_array($feedbackDetailsResult)) {
                         echo "<tr>
+                                <td>".$row['CID']."</td>
                                 <td>".$row['Topic']."</td>
                                 <td>".$row['Description']."</td>
                                 <td>

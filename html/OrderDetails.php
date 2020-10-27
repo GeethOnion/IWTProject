@@ -32,14 +32,14 @@
                 <a href="./customerAccount.php"><button>My Account</button></a>&nbsp;&nbsp;
                 <form action="../php/logout.php"><button type="submit">SignOut</button></form>
             </div>
-            <div id="loginButtonContainer" class="searchBar" style="align-items: center;align-content: center; text-align: center;padding-top: 35px;">
+            <!-- <div id="loginButtonContainer" class="searchBar" style="align-items: center;align-content: center; text-align: center;padding-top: 35px;">
                 <div>
                     <a href="./login.html"><button>Login</button></a>
                 </div>
                 <div>
                     <a href="./commonregistration.html"><button>SignUp</button></a>
                 </div>
-            </div>
+            </div> -->
         </div>
       
         <center>
